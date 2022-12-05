@@ -164,8 +164,14 @@ p {
 
 }
 
+@media(min-width:992px) and (max-width:1204px){
+    .title-image{
+        transform: rotate(0);
+        
+    }
+}
 
-@media(max-width:1000px){
+@media(max-width:991px){
 
 
     .title-image{
